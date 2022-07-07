@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 //1
 const example1 = Boolean(Number('10')) + 1;
